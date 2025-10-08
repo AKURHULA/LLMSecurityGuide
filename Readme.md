@@ -1,4 +1,4 @@
-# 🛡️ LLM Security 101: The Complete Guide
+# 🛡️ LLM Security: The Complete Guide
 
 <div align="center">
 
@@ -1722,13 +1722,15 @@ Special thanks to the 370+ contributors to the OWASP Top 10 for LLMs project.
 - ⚠️ Core vulnerability classifications
 
 ---
+**Connect with me on LinkedIn** if you found this helpful or want to discuss AI security, tools, or research:  
+https://www.linkedin.com/in/tarique-smith  
 
 <div align="center">
 
 ### 💙 If this guide helped you, please consider starring the repository!
 
-**Made with ❤️ by the LLM Security Community**
+**Made with ❤️ by Tarique Smith**
 
-[⬆ Back to Top](#-llm-security-101-the-complete-guide)
+[⬆ Back to Top](#-llm-security-guide)
 
 </div>
